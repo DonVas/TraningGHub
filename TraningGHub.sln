@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraningGHub", "TraningGHub\TraningGHub.csproj", "{EBCABECE-BFAE-40FE-A1F8-7C481B1E6813}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithClasses", "WorkWithClasses\WorkWithClasses.csproj", "{3F2C60FA-553C-4CB7-85DF-1CDA6FA59BF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EBCABECE-BFAE-40FE-A1F8-7C481B1E6813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCABECE-BFAE-40FE-A1F8-7C481B1E6813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBCABECE-BFAE-40FE-A1F8-7C481B1E6813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2C60FA-553C-4CB7-85DF-1CDA6FA59BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2C60FA-553C-4CB7-85DF-1CDA6FA59BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2C60FA-553C-4CB7-85DF-1CDA6FA59BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2C60FA-553C-4CB7-85DF-1CDA6FA59BF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
